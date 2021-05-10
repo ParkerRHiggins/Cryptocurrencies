@@ -14,10 +14,6 @@ Elbow Curve
 
 ![](Challenge/Visualizations/Elbow_Curve.png)
 
-Tradable Cryptocurrencies Table
-
-![](Challenge/Visualizations/Tradable_Cryptocurrencies_Table.png)
-
 2D Scatter Plot
 
 ![](Challenge/Visualizations/2D_Scatter.png)
@@ -25,3 +21,7 @@ Tradable Cryptocurrencies Table
 3D Scatter Plot
 
 ![](Challenge/Visualizations/3D_Scatter.png)
+
+Tradable Cryptocurrencies Table
+
+![](Challenge/Visualizations/Tradable_Cryptocurrencies_Table.png)
